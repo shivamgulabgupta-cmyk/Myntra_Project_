@@ -1,4 +1,4 @@
 # Myntra_Project_
 This is my First Git Repository
 <br>
-Author - Shivam Gupta
+Author - Shivam Kr Gupta
